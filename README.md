@@ -2,6 +2,7 @@ Development Setup
 Clone the repository and run the following commands:
 
 flutter pub get
+
 flutter run
 
 This project focuses on the design and development of a mobile web-based application that allows customizable fast-food ordering, which hopes to overcome the shortcomings in the existing online food ordering platforms. 
