@@ -1,0 +1,25 @@
+In your project root:
+
+pgsql
+Copy
+Edit
+/backend
+  ├── server.js
+  ├── firebase-service-account.json
+🛠️ Setup Instructions
+Install dependencies:
+
+bash
+Copy
+Edit
+npm init -y
+npm install express firebase-admin cors
+Add your Firebase Admin SDK key
+Download it from Firebase Console > Project Settings > Service Accounts.
+
+Start the server:
+
+bash
+Copy
+Edit
+node server.js
